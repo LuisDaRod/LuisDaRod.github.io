@@ -2,7 +2,8 @@
      background-color:darkgray;
  }
 
- h2{
+ h2, h4{
      color:aqua;
+     align-self:center;
  }
 
