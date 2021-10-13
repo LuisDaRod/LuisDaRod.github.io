@@ -11,7 +11,7 @@
      font-size:120%;
  }
 
- #tamaño{
+ #tamaño, img, p{
      max-height: 50px;
      width: 72%;
  }
